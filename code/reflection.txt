@@ -2,3 +2,5 @@ Write your reflection here.
 
 See reflection.md for what makes a good reflection — be specific, use the
 terminology from class, and make it actionable.
+
+This assignment was pretty simple I learned some more python and how to use tests. Some parts were a little repetitive but I was able to do everything
