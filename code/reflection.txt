@@ -1,8 +1,3 @@
-Write your reflection here.
-
-See reflection.md for what makes a good reflection — be specific, use the
-terminology from class, and make it actionable.
-
 In this assignment I learned how a module like bill.py avoids the logic that is involved in a console, notebook, and streamlit
 all of those import in logic while a module doesn't. Even though my overall program was pretty much the same for all four functions.
 I learned how to use unit tests to check over my work along with sharpening my skills with the debugging tool. I learned about the 
